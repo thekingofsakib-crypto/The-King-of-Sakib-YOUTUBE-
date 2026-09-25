@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheKingofSakib.aternos.me",
-    "port": 23538,
+    "ip": "TheKingofSakib.aternos.me ",
+    "port": 23538 ,
     "version": "1.21.1"
   },
   "position": {
